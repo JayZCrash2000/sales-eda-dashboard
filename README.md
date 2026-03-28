@@ -101,4 +101,4 @@ jupyter notebook sales_eda_dashboard.ipynb
 
 ## Author
 
-**Jeet Kumar** — [GitHub](https://github.com/JayZCrash2000) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+**Jeet Kumar** — [GitHub](https://github.com/JayZCrash2000)
